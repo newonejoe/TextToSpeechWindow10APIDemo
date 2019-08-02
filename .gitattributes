@@ -1,3 +1,4 @@
 special-vendored-path/* linguist-vendored
 jquery.js linguist-vendored=false
 *.cs linguist-language=csharp
+*.xaml linguist-language=csharp
